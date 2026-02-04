@@ -3,7 +3,10 @@
 </p>
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=35&duration=4000&pause=1000&color=42ABF7&background=FFFFFF00&vCenter=true&width=550&height=40&lines=Hi+there!+%F0%9F%90%B1;I'm+AJ+Sadullo;IT+Student;Full+Stack+Developer;Cybersecurity+Enthusiast">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=35&duration=4000&pause=1000&color=42ABF7&background=FFFFFF00&vCenter=true&width=550&height=40&lines=Hi+there!+%F0%9F%90%B1;I'm+AJ+Sadullo;IT+Student;Full+Stack+Developer;Cybersecurity+Enthusiast" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&size=35&duration=4000&pause=1000&color=1A73E8&background=FFFFFF00&vCenter=true&width=550&height=40&lines=Hi+there!+%F0%9F%90%B1;I'm+AJ+Sadullo;IT+Student;Full+Stack+Developer;Cybersecurity+Enthusiast" />
+  </picture>
 </h1>
 
 - 👨‍💻 **BSIT student** at the **Polytechnic University of the Philippines**
@@ -72,19 +75,15 @@
 
 ## ⚡ Stats
 
-<div style="display:flex; justify-content:space-between; align-items:center;">
-  <img
-    width="420"
-    height="165"
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=iamaoii&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
-    alt="readme stats"
-  />
-  <img
-    width="420"
-    height="165"
-    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iamaoii&count_private=true&theme=react&border_radius=10"
-    alt="streak stats"
-  />
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-salesp07.vercel.app/api?username=iamaoii&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+    <img width="420" height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=iamaoii&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10&title_color=1A73E8&icon_color=1A73E8" alt="readme stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=iamaoii&count_private=true&theme=react&border_radius=10" />
+    <img width="420" height="165" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iamaoii&count_private=true&theme=default&border_radius=10&ring=1A73E8&fire=1A73E8&currStreakLabel=1A73E8" alt="streak stats" />
+  </picture>
 </div>
 
 ---
